@@ -6,3 +6,4 @@ Java Programs for Conditional Statements and Loops
 4. Take integer inputs till the user enters 0 and print the largest number from all.
 5. Factorial Program
 6. Calculate Electricity Bill
+7. Calculate Average Of N Numbers
