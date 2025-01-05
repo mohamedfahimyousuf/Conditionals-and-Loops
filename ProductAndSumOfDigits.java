@@ -16,5 +16,6 @@ class ProductAndSumOfDigits{
         System.out.println("Product of Digits: "+product);
         int sub = product - sum;
         System.out.println("Result (product - sum) : "+sub);
+        scanner.close();
     }
 }
