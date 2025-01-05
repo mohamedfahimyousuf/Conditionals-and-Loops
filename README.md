@@ -4,3 +4,5 @@ Java Programs for Conditional Statements and Loops
 2. Input a number and print all the factors of that number (use loops).
 3. Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
 4. Take integer inputs till the user enters 0 and print the largest number from all.
+5. Factorial Program
+6. Calculate Electricity Bill
