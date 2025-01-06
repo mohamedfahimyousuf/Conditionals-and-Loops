@@ -7,3 +7,4 @@ Java Programs for Conditional Statements and Loops
 5. Factorial Program
 6. Calculate Electricity Bill
 7. Calculate Average Of N Numbers
+8. Find if a number is palindrome or not
