@@ -2,7 +2,7 @@ import java.util.*;
 public class ElectricityBill {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter Total Units consumed: ");
+        System.out.print("Enter Total Units consumed : ");
         int units = scanner.nextInt();
         int bill_amount = 0;
         if(units<= 100){
