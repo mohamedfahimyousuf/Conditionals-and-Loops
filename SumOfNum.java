@@ -3,7 +3,7 @@ public class SumOfNum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int sum = 0;
-        System.out.println("Enter a number: ");
+        System.out.println("Enter a number : ");
         while(true){
             int num = scanner.nextInt();
             if(num == 0){
