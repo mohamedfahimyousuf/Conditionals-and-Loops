@@ -12,8 +12,8 @@ class ProductAndSumOfDigits{
             product*=rem;
             num /= 10;
         }
-        System.out.println("Sum of Digits: "+sum);
-        System.out.println("Product of Digits: "+product);
+        System.out.println("Sum of Digits : "+sum);
+        System.out.println("Product of Digits : "+product);
         int sub = product - sum;
         System.out.println("Result (product - sum) : "+sub);
         scanner.close();
