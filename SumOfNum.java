@@ -14,7 +14,7 @@ public class SumOfNum {
                 sum+=num;
             }
         }
-        System.out.println("The sum of all numbers: "+sum);
+        System.out.println("The sum of all numbers : "+sum);
         scanner.close();
     }
 }
