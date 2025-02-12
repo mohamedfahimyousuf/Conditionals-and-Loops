@@ -2,7 +2,7 @@ import java.util.*;
 public class AvgOfN {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter the number of Elements: ");
+        System.out.print("Enter the number of Elements : ");
         int n = scanner.nextInt();
         System.out.println("Enter the numbers: ");
         double sum = 0;
