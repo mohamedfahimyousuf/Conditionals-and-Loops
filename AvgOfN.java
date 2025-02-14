@@ -4,7 +4,7 @@ public class AvgOfN {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of Elements : ");
         int n = scanner.nextInt();
-        System.out.println("Enter the numbers: ");
+        System.out.println("Enter the numbers : ");
         double sum = 0;
         for(int i=1;i<=n;i++){
             double num = scanner.nextDouble();
