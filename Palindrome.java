@@ -2,7 +2,7 @@ import java.util.*;
 public class Palindrome {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a number: ");
+        System.out.print("Enter a number : ");
         int num = scanner.nextInt();
         int og_num = num;
         int rev_num = 0;
